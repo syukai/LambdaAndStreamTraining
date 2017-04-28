@@ -62,11 +62,11 @@ public class Java8Lambda {
 		System.out.println("===  Main_06 ===");
 		Main_06.main(list);
 		
-		// ちなみに・・・
+		// 「昇順」クラスをジェネリクスに書き換え
 		System.out.println("===  Main_07 ===");
 		Main_07.main(list);
 		
-		// 標準API
+		// 標準APIを使ったソート処理
 		System.out.println("===  Main_08 ===");
 		Main_08.main(list);
 		
